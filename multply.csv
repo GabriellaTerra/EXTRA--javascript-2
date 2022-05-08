@@ -1,0 +1,8 @@
+i;i<vezes;resultado=add(a,resultado);i++
+0;true;4;1
+1;true;8;2
+2;true;12;3
+3;true;16;4
+4;true;20;5
+5;true;24;6
+6;false;--;--

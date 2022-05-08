@@ -1,0 +1,6 @@
+i = a(5);" i > 1";resultado=multiply(resultado,i);i--
+5;true;5;4
+5;true;20;3
+5;true;60;2
+5;true;120;1
+5;false;--;--
